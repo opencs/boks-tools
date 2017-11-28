@@ -1,0 +1,10 @@
+# As defined by IANA https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&page=100
+boks		6500/tcp
+boks		6500/udp
+boks-servc	6501/tcp
+boks-servc	6501/udp
+boks-servm	6502/tcp
+boks-servm	6502/udp
+boks-clntd	6503/tcp
+boks-clntd	6503/udp
+

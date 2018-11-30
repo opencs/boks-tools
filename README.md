@@ -1,6 +1,6 @@
 # OpenCS BoKS Tools
 
-Copyright (c) Open Communications Security. All rights reserved.
+Copyright (c) 2017-2018 Open Communications Security. All rights reserved.
 
 ## Description
 
@@ -9,6 +9,7 @@ This repository contains all open source tools created by **OpenCS** for **Fox T
 ## Contents
 
    * **boks-ping**: A simple script that can be used to exercise the connections to all hosts listed in *bcastaddr*;
+   * **setpasswd**: A simple shell script that encapsulates **passwd** but don't ask for the new password confirmation. Useful for integration with password vaults;
 
 ## Licensing
 
